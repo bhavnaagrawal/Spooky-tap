@@ -8,7 +8,4 @@ Used:
 Paper.js
 Howler.js
 
-Beta Version is a work in progress which includes
-1. Sounds recording facility
-2. Disable previous sounds when a new key is pressed
-3. New funky animations
+
